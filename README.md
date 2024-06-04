@@ -16,6 +16,8 @@ A curated list of Phi protocol code and resources.
 
 ## Contents
 
+- [`phi-cc0-objects`](https://github.com/PHI-LABS-INC/phi-objects) – A collection of Phi's objects.
+
 **[back to top](#contents)**
 
 ## References
@@ -27,6 +29,8 @@ A curated list of Phi protocol code and resources.
 ## Templates
 
 - [`protocol/verifier-template`](https://github.com/PHI-LABS-INC/verifier-template) – A minimal template for building verifier
+
+- [`protocol/artist-template`](https://github.com/PHI-LABS-INC/artist-template) – A minimal template for building artwork endpoint
 
 **[back to top](#contents)**
 
