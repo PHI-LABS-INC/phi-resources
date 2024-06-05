@@ -10,7 +10,7 @@ A curated list of Phi protocol code and resources.
   - [Contents](#contents)
   - [Templates](#templates)
   - [Tutorials](#tutorials)
-  - [Dunes](#dune)
+  - [Dune](#dune)
   - [Tools](#tools)
   - [License](#license)
 
@@ -35,6 +35,13 @@ A curated list of Phi protocol code and resources.
 **[back to top](#contents)**
 
 ## Tutorials
+
+**[back to top](#contents)**
+
+## Dune
+
+- [`dune-csv-export`](https://github.com/PHI-LABS-INC/dune-csv-export) – A minimal script
+  for export csv file from Dune query for credential merkle tree ceation.
 
 **[back to top](#contents)**
 
