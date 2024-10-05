@@ -28,13 +28,15 @@ A curated list of Phi protocol code and resources.
 
 ## Templates
 
-- [`protocol/verifier-template`](https://github.com/PHI-LABS-INC/verifier-template) – A minimal template for building verifier
+- [`protocol/phi-sdk`](https://github.com/ZaK3939/phi-sdk-example) – A minimal template for using phi-SDK
 
-- [`protocol/artist-template`](https://github.com/PHI-LABS-INC/artist-template) – A minimal template for building artwork endpoint
+- [`protocol/artist-template`](https://github.com/PHI-LABS-INC/artist-template) – A minimal template for building artwork
 
 **[back to top](#contents)**
 
 ## Tutorials
+
+- [`Advanced Art `](https://docs.philand.xyz/explore-phi/case-study/advanced-art-gasfire) – A minimal template for advanced art
 
 **[back to top](#contents)**
 
