@@ -28,7 +28,7 @@ A curated list of Phi protocol code and resources.
 
 ## Templates
 
-- [`protocol/phi-sdk`](https://github.com/ZaK3939/phi-sdk-example) – A minimal template for using phi-SDK
+- [`protocol/verifier-template`](https://github.com/PHI-LABS-INC/verifier-template) – A minimal template for using phi-SDK
 
 - [`protocol/artist-template`](https://github.com/PHI-LABS-INC/artist-template) – A minimal template for building artwork
 
@@ -48,6 +48,9 @@ A curated list of Phi protocol code and resources.
 **[back to top](#contents)**
 
 ## Tools
+
+- [`phi-sdk`](https://github.com/PHI-LABS-INC/sdk-exmaple) – A minimal script
+  for phi-sdk
 
 **[back to top](#contents)**
 
